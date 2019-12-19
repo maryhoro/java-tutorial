@@ -1,5 +1,6 @@
 package mariaTasks;
 
+// Reverses a string
 public class Reverse {
 
     public static  char [] reverse (String str){
