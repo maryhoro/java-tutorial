@@ -3,7 +3,7 @@ package mariaTasks;
 // Reverses a string
 public class Reverse {
 
-    public static  char [] reverse (String str){
+    static  char [] reverse (String str){
 
         char [] letter =str.toCharArray();
         int first = 0;
